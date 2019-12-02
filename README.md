@@ -138,3 +138,12 @@ namespace Local.EventHub.DataSender
 }
 
 ```
+
+# Key Concepts used
+1. Design pattern
+2. Dependency Injection and IoC Containers
+3. Separation of Concern
+4. SOLID Principles
+5. Azure Functions (Event Hub Triggered)
+6. Blob Containers
+7. Azure Event Hub
