@@ -1,16 +1,15 @@
 namespace AzureFuns.EventHub.Example
 {
-    using System;
-    using System.Linq;
+    using System; 
     using System.Text;
     using System.Threading.Tasks;
     using Microsoft.Azure.EventHubs;
     using Microsoft.Azure.WebJobs;
     using Microsoft.Extensions.Logging;
+    using Microsoft.Extensions.DependencyInjection;
     using AzureFuns.Common;
     using AzureFuns.Data.Models;
     using static AzureFuns.Common.Constants;
-    using Microsoft.Extensions.DependencyInjection;
 
     public static class EventHubTriggeredFuncExample
     {

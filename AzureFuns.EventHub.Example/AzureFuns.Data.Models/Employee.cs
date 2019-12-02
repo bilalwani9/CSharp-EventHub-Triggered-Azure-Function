@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace AzureFuns.Data.Models
+﻿namespace AzureFuns.Data.Models
 {
+    using System;
+
     public class Employee
     {
         public Guid Id { get; set; }

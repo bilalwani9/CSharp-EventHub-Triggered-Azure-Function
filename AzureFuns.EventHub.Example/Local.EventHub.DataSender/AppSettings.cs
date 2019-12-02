@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Local.EventHub.DataSender
+﻿namespace Local.EventHub.DataSender
 {
     public class AppSettings : IAppSettings
     {

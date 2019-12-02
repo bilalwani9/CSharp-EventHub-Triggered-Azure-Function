@@ -1,13 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using AzureFuns.Data.Models;
-using Microsoft.Azure.EventHubs;
-using Newtonsoft.Json;
-
-namespace Local.EventHub.DataSender
+﻿namespace Local.EventHub.DataSender
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Text;
+    using System.Threading.Tasks;
+    using AzureFuns.Data.Models;
+    using Microsoft.Azure.EventHubs;
+    using Newtonsoft.Json;
+
     public class EventHubMessageSender : IEventHubMessageSender
     {
         private EventHubClient _eventHubClient;

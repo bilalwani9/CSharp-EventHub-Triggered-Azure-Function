@@ -1,9 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace AzureFuns.EventHub.Example
+﻿namespace AzureFuns.EventHub.Example
 {
+    using System; 
+
     public class AppSettings : IAppSettings
     {
        public string  StorageConnectionString { get; set; }

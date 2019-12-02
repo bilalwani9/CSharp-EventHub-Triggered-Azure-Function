@@ -1,13 +1,10 @@
-﻿using AzureFuns.Data.Models;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Text;
-
-namespace AzureFuns.Common
+﻿namespace AzureFuns.Common
 {
+    using AzureFuns.Data.Models;
+    using Newtonsoft.Json;
+    using Newtonsoft.Json.Serialization; 
+    using System.IO; 
+
     public class EmployeeDataParser : IParser<Employee>
     {
         private readonly JsonSerializerSettings _settings;

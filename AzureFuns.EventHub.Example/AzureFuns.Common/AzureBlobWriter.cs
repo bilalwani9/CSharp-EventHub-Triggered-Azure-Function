@@ -1,12 +1,10 @@
-﻿using Microsoft.WindowsAzure.Storage;
-using Microsoft.WindowsAzure.Storage.Blob;
-using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AzureFuns.Common
+﻿namespace AzureFuns.Common
 {
+    using Microsoft.WindowsAzure.Storage;
+    using Microsoft.WindowsAzure.Storage.Blob;
+    using System;
+    using System.Threading.Tasks;
+
     public class AzureBlobWriter : IAzureBlobWriter
     {
         private readonly CloudBlobClient _blobClient;
