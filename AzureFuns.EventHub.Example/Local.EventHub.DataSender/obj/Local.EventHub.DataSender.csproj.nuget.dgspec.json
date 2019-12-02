@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj": {}
+    "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj": {}
   },
   "projects": {
-    "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
+    "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
+        "projectUniqueName": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
         "projectName": "AzureFuns.Data.Models",
-        "projectPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
+        "projectPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\obj\\",
+        "outputPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj": {
+    "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj",
+        "projectUniqueName": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj",
         "projectName": "Local.EventHub.DataSender",
-        "projectPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj",
+        "projectPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\Local.EventHub.DataSender.csproj",
         "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-        "outputPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\obj\\",
+        "outputPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\Local.EventHub.DataSender\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,8 +84,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
-                "projectPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
+              "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
+                "projectPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
               }
             }
           }

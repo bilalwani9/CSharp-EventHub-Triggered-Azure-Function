@@ -3227,11 +3227,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
+      "projectUniqueName": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
       "projectName": "AzureFuns.Common",
-      "projectPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
+      "projectPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Common\\AzureFuns.Common.csproj",
       "packagesPath": "C:\\Users\\BIAHW\\.nuget\\packages\\",
-      "outputPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Common\\obj\\",
+      "outputPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Common\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BIAHW\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3248,8 +3248,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
-              "projectPath": "C:\\Research\\RnD\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
+            "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj": {
+              "projectPath": "C:\\temp\\AzureRnd\\AzureEventHub\\AzureFuns.EventHub.Example\\AzureFuns.Data.Models\\AzureFuns.Data.Models.csproj"
             }
           }
         }
