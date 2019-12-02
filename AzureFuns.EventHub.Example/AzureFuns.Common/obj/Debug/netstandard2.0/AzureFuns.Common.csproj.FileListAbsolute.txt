@@ -1,0 +1,11 @@
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.deps.json
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.dll
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Common.pdb
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.AssemblyInfoInputs.cache
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.AssemblyInfo.cs
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.dll
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.pdb
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Data.Models.dll
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\bin\Debug\netstandard2.0\AzureFuns.Data.Models.pdb
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.csprojAssemblyReference.cache
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Common\obj\Debug\netstandard2.0\AzureFuns.Common.csproj.CopyComplete

@@ -1,0 +1,8 @@
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\bin\Debug\netstandard2.0\AzureFuns.Data.Models.deps.json
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\bin\Debug\netstandard2.0\AzureFuns.Data.Models.dll
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\bin\Debug\netstandard2.0\AzureFuns.Data.Models.pdb
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\obj\Debug\netstandard2.0\AzureFuns.Data.Models.csprojAssemblyReference.cache
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\obj\Debug\netstandard2.0\AzureFuns.Data.Models.AssemblyInfoInputs.cache
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\obj\Debug\netstandard2.0\AzureFuns.Data.Models.AssemblyInfo.cs
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\obj\Debug\netstandard2.0\AzureFuns.Data.Models.dll
+C:\Research\RnD\AzureFuns.EventHub.Example\AzureFuns.Data.Models\obj\Debug\netstandard2.0\AzureFuns.Data.Models.pdb

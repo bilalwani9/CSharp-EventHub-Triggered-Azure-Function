@@ -1,0 +1,68 @@
+[
+  {
+    "Id": "eb435573-f359-420d-bfa3-53763ab49a18",
+    "FirstName": "John",
+    "MiddleName": "Flemming",
+    "LastName": "Abraham",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX34342767565",
+    "Dob": "1990-08-13T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  },
+  {
+    "Id": "40379120-cec4-4873-b521-1675bf9808bf",
+    "FirstName": "Chien",
+    "MiddleName": "Shiung",
+    "LastName": "Wu",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX3434223423565",
+    "Dob": "1998-06-01T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  },
+  {
+    "Id": "06a466cb-ce06-47aa-97c8-b1a247998ba0",
+    "FirstName": "Edwin",
+    "MiddleName": "Powell",
+    "LastName": "Hubble",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX343242367565",
+    "Dob": "1992-08-04T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  },
+  {
+    "Id": "51a064a6-b40a-4d5c-ac58-9ad0564b219d",
+    "FirstName": "Flossie",
+    "MiddleName": "Wong",
+    "LastName": "Staal",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX234234767565",
+    "Dob": "1993-05-15T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  },
+  {
+    "Id": "01ad29b5-b6ad-4311-8c96-d8faf48d5262",
+    "FirstName": "Frieda",
+    "MiddleName": "Robscheit",
+    "LastName": "Robbins",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX342342347565",
+    "Dob": "1998-08-23T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  },
+  {
+    "Id": "349bf613-80b4-46e7-b689-b6f2e2b6c35e",
+    "FirstName": "Jacqueline",
+    "MiddleName": "K.",
+    "LastName": "Barton",
+    "MobileNo": "+601932484930",
+    "ICNumber": "XX23423422365",
+    "Dob": "2000-08-12T00:00:00",
+    "Salary": 10000.0,
+    "Address": "Malaysia"
+  }
+]
