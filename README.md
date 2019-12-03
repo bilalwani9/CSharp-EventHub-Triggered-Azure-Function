@@ -63,7 +63,7 @@ Once You have all resources created replace below class with actual Names and Co
 
 # Publish Event Hub Triggered Function to Azure
 Right Click On Project **AzureFuns.EventHub.Example** and Click on **Publish** 
-Follow documentation on Microsoft [How to Publish Azure Function from Visual Studio] (https://tutorials.visualstudio.com/first-azure-function/publish)
+Follow documentation on Microsoft [How to Publish Azure Function from Visual Studio](https://tutorials.visualstudio.com/first-azure-function/publish)
 
 ## Update Azure Function App Setting with below Key Values
             a) AzureWebJobsStorage
